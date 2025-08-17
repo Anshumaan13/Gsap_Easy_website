@@ -24,13 +24,6 @@ Perfect for:
 
 ---
 
-##  Live Demo
-
-View the live project here:  
-`<insert your live URL>`
-
----
-
 ##  Installation & Setup
 
 If you host locally, clone this repository:
